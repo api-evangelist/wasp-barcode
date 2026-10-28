@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Wasp Barcode is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://waspbarcode.com/
+Wasp Barcode Technologies provides industry‑leading asset tracking and inventory management software, barcode scanners, printers, and labeling supplies for businesses of all sizes. Their platform helps companies manage physical assets, streamline inventory processes, and integrate barcode technology into operations.
+
+**Areas:** Company · Asset Tracking · Inventory Management · Barcode Technology · Software
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://waspbarcode.com/)
+- [Documentation](https://dev.waspbarcode.com/)
+- [Getting started](https://www.waspbarcode.com/buzz/how-onboarding-can-improve-employee-retention)
+- [Pricing](https://www.waspbarcode.com/asset-tracking/pricing)
+- [Support](https://support.waspbarcode.com/)
+- [Terms of service](https://www.waspbarcode.com/about-us/terms-of-use)
+- [Privacy policy](https://www.waspbarcode.com/about-us/privacy-policy)
+- [Status](https://status.waspbarcode.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/wasp-barcode/](https://apis.io/providers/wasp-barcode/).
